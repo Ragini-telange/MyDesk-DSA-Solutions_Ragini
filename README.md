@@ -7,11 +7,12 @@ Each solution includes:
 - Comprehensive problem statement, constraints, and test case documentation.
 - Runtime performance benchmarks verified against standalone test suites.
 
-## Solved Problems (1 Total)
+## Solved Problems (2 Total)
 
 | # | Problem Title | Topic | Difficulty | Solution |
 |:---:|:---|:---|:---:|:---:|
 | 1 | [Two Sum](./Arrays/Two-Sum-README.md) | Arrays | `Easy` | [C++](./Arrays/Two-Sum.cpp) |
+| 2 | [Best Time to Buy and Sell Stock](./Arrays/Best-Time-to-Buy-and-Sell-Stock-README.md) | Arrays | `Easy` | [C++](./Arrays/Best-Time-to-Buy-and-Sell-Stock.cpp) |
 
 ---
 *Maintained automatically via MyDesk GitHub Integration.*
