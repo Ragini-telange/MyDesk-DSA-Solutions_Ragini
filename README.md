@@ -7,13 +7,14 @@ Each solution includes:
 - Comprehensive problem statement, constraints, and test case documentation.
 - Runtime performance benchmarks verified against standalone test suites.
 
-## Solved Problems (3 Total)
+## Solved Problems (4 Total)
 
 | # | Problem Title | Topic | Difficulty | Solution |
 |:---:|:---|:---|:---:|:---:|
 | 1 | [Two Sum](./Arrays/Two-Sum-README.md) | Arrays | `Easy` | [C++](./Arrays/Two-Sum.cpp) |
 | 2 | [Best Time to Buy and Sell Stock](./Arrays/Best-Time-to-Buy-and-Sell-Stock-README.md) | Arrays | `Easy` | [C++](./Arrays/Best-Time-to-Buy-and-Sell-Stock.cpp) |
 | 3 | [Maximum Subarray](./Arrays/Maximum-Subarray-README.md) | Arrays | `Medium` | [C++](./Arrays/Maximum-Subarray.cpp) |
+| 4 | [Contains Duplicate](./Arrays/Contains-Duplicate-README.md) | Arrays | `Easy` | [C++](./Arrays/Contains-Duplicate.cpp) |
 
 ---
 *Maintained automatically via MyDesk GitHub Integration.*
