@@ -7,7 +7,7 @@ Each solution includes:
 - Comprehensive problem statement, constraints, and test case documentation.
 - Runtime performance benchmarks verified against standalone test suites.
 
-## Solved Problems (4 Total)
+## Solved Problems (5 Total)
 
 | # | Problem Title | Topic | Difficulty | Solution |
 |:---:|:---|:---|:---:|:---:|
@@ -15,6 +15,7 @@ Each solution includes:
 | 2 | [Best Time to Buy and Sell Stock](./Arrays/Best-Time-to-Buy-and-Sell-Stock-README.md) | Arrays | `Easy` | [C++](./Arrays/Best-Time-to-Buy-and-Sell-Stock.cpp) |
 | 3 | [Maximum Subarray](./Arrays/Maximum-Subarray-README.md) | Arrays | `Medium` | [C++](./Arrays/Maximum-Subarray.cpp) |
 | 4 | [Contains Duplicate](./Arrays/Contains-Duplicate-README.md) | Arrays | `Easy` | [C++](./Arrays/Contains-Duplicate.cpp) |
+| 100 | [Single Number](./Greedy-Algorithms-and-Bit-Manipulation/Single-Number-README.md) | Greedy Algorithms and Bit Manipulation | `Easy` | [C++](./Greedy-Algorithms-and-Bit-Manipulation/Single-Number.cpp) |
 
 ---
 *Maintained automatically via MyDesk GitHub Integration.*
